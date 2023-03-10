@@ -1,0 +1,19 @@
+.menuBar{
+  color : white;
+  background-color: #071047;
+  align-items: center;
+  padding: 20px;
+}
+.row{
+  --bs-gutter-x: 0rem;
+}
+.paper{
+  text-align: center;
+  color: blue;
+}
+.profileCard{
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+ gap: 10px;
+}
